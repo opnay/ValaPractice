@@ -1,4 +1,10 @@
-## Valadoc
+## Document
+### GNOME Vala Tutorial
+When you meet vala at first, It will help you to learn vala lang.
+
+[Go to Tutorial](https://wiki.gnome.org/Projects/Vala/Tutorial)
+
+### Valadoc
 This is important site for vala developer. That is vala api and other libraries documentations.
 
 [Go to Valadoc](https://valadoc.org)
